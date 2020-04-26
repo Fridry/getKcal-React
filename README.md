@@ -1,9 +1,11 @@
-# GetKcal
+<h1 align="center">GetKcal</h1>
 
-## Calculadora de calorias.
+<h3 align="center">Calculadora de calorias</h3>
 
-![getKcal](src/assets/images/getKcal.png)
-
+<p align="center">
+<img align="center" src="/src/assets/images/getKcal.PNG">
+<p align="center">
+  
 Exibindo em calorias o metabolismo basal a quantidade média de calorias necessárias para manter, perder ou ganhar peso.
 Desenvolvido utilizando:
 
